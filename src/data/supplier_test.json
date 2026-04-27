@@ -1,0 +1,237 @@
+[
+  {
+    "ID": "OB-AGRO-001",
+    "Unternehmen": "Morning Star Company",
+    "Sektor": "Industrielle Tomatenverarbeitung",
+    "Hauptstandort": "Kalifornien, USA (Santa Nella, Los Banos, Williams, Woodland)",
+    "Exporthub": "Hafen von Oakland",
+    "Produkte": [
+      {
+        "Typ": "Tomato Puree / Paste",
+        "Brix_NTSS": "29-31%",
+        "Viskositaet": ["Hot Break (HB)", "Cold Break (CB)"],
+        "pH_Wert": "4.30 ± 0.30",
+        "Howard_Mold_Count": "≤ 40%",
+        "Finish_Optionen": [
+          {"Name": "Fine Finish (FF)", "Siebgroesse_Zoll": "0.027 - 0.045"},
+          {"Name": "Medium Finish (MF)", "Siebgroesse_Zoll": "0.033 - 0.060"},
+          {"Name": "Coarse Finish (CF)", "Siebgroesse_Zoll": "0.045 - 0.060"}
+        ]
+      }
+    ],
+    "Logistik_Verpackung": "55-Gallonen-Fasertrommeln / 300-Gallonen-Holzbehälter",
+    "Zielgewicht_Trommel_31_Brix": "530 ± 20 lbs",
+    "Marktrolle": "Weltweiter Kapazitätsführer (ca. 4 Mio. Tonnen/Jahr)"
+  },
+  {
+    "ID": "OB-AGRO-002",
+    "Unternehmen": "COFCO Tomato",
+    "Sektor": "Industrielle Tomatenverarbeitung",
+    "Hauptstandort": "Xinjiang, China (12 Fabriken)",
+    "Exporthub": "Tianjin, Shanghai",
+    "Produkte": [
+      {
+        "Typ": "Tomato Paste",
+        "Brix_Range": "28-30% bis 36-38%",
+        "Spezialsorten": ["Super Hot Break", "Low Acid"],
+        "Zertifizierungen": ["ISO9001", "HACCP", "BRC"]
+      }
+    ],
+    "Incoterms": "FOB",
+    "Marktstrategie": "Geografische Diversifikation zur Erntesicherung",
+    "Exportreichweite": "Über 80 Länder"
+  },
+  {
+    "ID": "OB-AGRO-003",
+    "Unternehmen": "Sugal Group",
+    "Sektor": "Industrielle Tomatenverarbeitung",
+    "Hauptstandort": "Portugal, Spanien, Chile (5 Fabriken)",
+    "Exporthub": "Lissabon / Diverse",
+    "Produkte": [
+      {
+        "Typ": "Tomato Puree Aseptic",
+        "Brix": "36/38°",
+        "Saeuregehalt_Zitronensaeure": "1.6 - 4.0%",
+        "pH_Wert": "≤ 4.6",
+        "Farbe_Hunter_Lab_ab_Verhaeltnis": "> 1.9",
+        "Break_Varianten": ["Hot Break", "Cold Break", "Warm Break"]
+      }
+    ],
+    "Logistik_Verpackung": "220-Liter-Stahltrommeln (aseptisch)",
+    "Marktvorteil": "Ganzjährige Versorgung durch Präsenz auf beiden Hemisphären"
+  },
+  {
+    "ID": "OB-AGRO-004",
+    "Unternehmen": "Conesa Group",
+    "Sektor": "Industrielle Tomatenverarbeitung",
+    "Hauptstandort": "Spanien, Portugal, China, USA (9 Fabriken)",
+    "Exporthub": "Valencia / Diverse",
+    "Produkte": [
+      {
+        "Typ": "Cold Break Paste",
+        "Brix": "28-30%",
+        "Farbe_Hunter_Lab_ab_Verhaeltnis": "min. 2.20",
+        "Bostwick_Konsistenz": "7.0 - 13.0 cm (bei 12.5 Brix, 20°C, 30s)",
+        "Haltbarkeit": "18 - 24 Monate",
+        "GVO_Status": "Frei von GVO und Allergenen"
+      }
+    ],
+    "Logistik_Verpackung": "Aseptische Beutel (Scholle/Goglio) in 235 kg Stahltrommeln",
+    "Verarbeitungskapazitaet": "Fast 1 Mio. Tonnen Frischware/Saison"
+  },
+  {
+    "ID": "OB-CHEM-001",
+    "Unternehmen": "ADNOC Group",
+    "Sektor": "Elementarschwefel / Agrarchemie",
+    "Hauptstandort": "Abu Dhabi, VAE",
+    "Exporthub": "Hafen von Ruwais",
+    "Produkte": [
+      {
+        "Typ": "Granulierter Schwefel",
+        "Reinheitsgrad_Standard": "99.5%",
+        "Reinheitsgrad_Spezial": "> 99.9% (Pharma/Food)",
+        "Physikalische_Eigenschaft": "Gute Fließeigenschaften, geringe Staubentwicklung"
+      }
+    ],
+    "Preisbildung": "Official Selling Price (OSP) monatlich",
+    "Marktanteil_Region": "Naher Osten ca. 24.1% der Weltproduktion"
+  },
+  {
+    "ID": "OB-CHEM-002",
+    "Unternehmen": "Saudi Aramco",
+    "Sektor": "Elementarschwefel / Petroleum",
+    "Hauptstandort": "Saudi-Arabien",
+    "Exporthub": "Jubail, Yanbu",
+    "Produkte": [
+      {
+        "Typ": "Elementarschwefel (granuliert)",
+        "Reinheitsgrad": "99.9%+",
+        "Verpackungsvorschrift": "Aramco Spezifikation 8314 (Schutz vor Meeresnebel/Feuchtigkeit)"
+      }
+    ],
+    "Preisreferenz": "Qatar Sulphur Price (QSP)",
+    "Incoterms": "FOB",
+    "Marktdaten_2026": "Rekordpreise bis zu 570 USD/t"
+  },
+  {
+    "ID": "OB-CHEM-003",
+    "Unternehmen": "Sinopec",
+    "Sektor": "Elementarschwefel / Chemicals",
+    "Hauptstandort": "China",
+    "Exporthub": "Dalian, Shanghai",
+    "Produkte": [
+      {
+        "Typen": ["Granulierter Schwefel", "Lump Sulphur (Stückschwefel)"],
+        "Reinheitsgrad": "99.5%+",
+        "Gewinnung": "Hydrodesulfurierung (Raffinerie) & Pyrit-Abbau",
+        "Standards": "GB/T (Nationaler Standard), ISO-harmonisiert"
+      }
+    ]
+  },
+  {
+    "ID": "OB-POLY-001",
+    "Unternehmen": "SABIC",
+    "Sektor": "Polyethylen (PE)",
+    "Hauptstandort": "Saudi-Arabien",
+    "Exporthub": "Jubail",
+    "Produkte": [
+      {
+        "Name": "SABIC HDPE B5205",
+        "Typ": "HDPE Copolymer",
+        "Dichte": "952 kg/m³",
+        "Schmelzflussrate_MFR": "4.5 g/10 min (bei 21.6 kg)",
+        "Anwendung": "UN-zertifizierte Kanister (10-120 Liter)"
+      },
+      {
+        "Name": "SABIC LDPE 2100N0",
+        "Typ": "LDPE",
+        "Eigenschaften": "Keine Additive, exzellente Zähigkeit",
+        "Anwendung": "Schrumpfhauben, Industriesäcke"
+      }
+    ],
+    "Exportvolumen_2025": "Über 8.2 Mio. Tonnen"
+  },
+  {
+    "ID": "OB-POLY-002",
+    "Unternehmen": "Dow Chemical Company",
+    "Sektor": "Polyethylen (PE)",
+    "Hauptstandort": "USA",
+    "Exporthub": "Hafen von Houston",
+    "Produkte": [
+      {
+        "Serie": "ELITE Enhanced PE (LLDPE)",
+        "Technologie": "INSITE (Metallocen-Katalyse)",
+        "Dichte_Range": "0.917 - 0.918 g/cm³",
+        "Schmelzindex": "ca. 1.0 g/10 min",
+        "Vorteile": "Hohe Durchstoßfestigkeit, niedrige Siegeltemperatur"
+      }
+    ]
+  },
+  {
+    "ID": "OB-POLY-003",
+    "Unternehmen": "LyondellBasell",
+    "Sektor": "Polyethylen (PE)",
+    "Hauptstandort": "USA / Niederlande",
+    "Exporthub": "Rotterdam",
+    "Produkte": [
+      {
+        "Technologie": "Hostalen ACP (Niederdruck-Slurry)",
+        "Typ": "Multimodales HDPE",
+        "Nachhaltigkeitslinie": "CirculenRenew (Erneuerbare Rohstoffe / Drop-in Lösung)",
+        "Anwendung": "Lagerbehälter, Transportkisten"
+      }
+    ]
+  },
+  {
+    "ID": "OB-WAX-001",
+    "Unternehmen": "PetroChina (CNPC)",
+    "Marke": "Kunlun",
+    "Sektor": "Paraffinwachs",
+    "Hauptstandort": "Fushun, Daqing (China)",
+    "Exporthub": "Hafen von Dalian",
+    "Produkte": [
+      {
+        "Grad": "58/60 (Fully Refined)",
+        "Schmelzpunkt": "58-60 °C",
+        "Oelgehalt": "max. 0.5%",
+        "Saybolt_Farbwert": "min. +27",
+        "Nadelpenetration_25C": "max. 19 (1/10 mm)"
+      }
+    ],
+    "Verpackung": "25 kg / 50 kg Slabs oder Granulat",
+    "Incoterms": "FOB Dalian"
+  },
+  {
+    "ID": "OB-WAX-002",
+    "Unternehmen": "ExxonMobil",
+    "Marken": ["Parvan", "Prowaxx"],
+    "Sektor": "Paraffinwachs",
+    "Hauptstandort": "USA",
+    "Exporthub": "Houston",
+    "Produkte": [
+      {
+        "Name": "Prowaxx 1271 FR",
+        "Schmelzpunkt": "51.7 - 53.3 °C",
+        "Oelgehalt": "0.5% - 0.7%",
+        "Spezifikation": "FDA-konform (indirekter Lebensmittelkontakt)",
+        "Zusaetze": "Oxidationsinhibitoren",
+        "Anwendung": "Behälterkerzen (optimale Duftabgabe)"
+      }
+    ]
+  },
+  {
+    "ID": "OB-WAX-003",
+    "Unternehmen": "Sasol",
+    "Sektor": "Paraffinwachs / Spezialchemie",
+    "Hauptstandort": "Südafrika",
+    "Exporthub": "Durban, Hamburg",
+    "Produkte": [
+      {
+        "Typ": "Synthetische Fischer-Tropsch-Wachse",
+        "Serie": "Narrow-Cut Materials (NCM)",
+        "Eigenschaften": "Extrem hohe Linearität, scharfer Phasenübergang",
+        "Schmelzpunkt_Range": "50 - 100 °C+"
+      }
+    ]
+  }
+]
