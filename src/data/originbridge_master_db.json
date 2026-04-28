@@ -1,0 +1,2606 @@
+[
+    {
+        "id": "OB-AGR-001",
+        "company_name": "Apple Global 1",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 1",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.34,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "REACH",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "72 Tons"
+        },
+        "estimated_capacity_yearly": "518936 Tons"
+    },
+    {
+        "id": "OB-AGR-002",
+        "company_name": "Apple Global 2",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 2",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "purity_brix": "29%",
+            "ph_value": 4.33,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "52 Tons"
+        },
+        "estimated_capacity_yearly": "307715 Tons"
+    },
+    {
+        "id": "OB-AGR-003",
+        "company_name": "Pistachio Global 3",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 3",
+            "country": "Vietnam"
+        },
+        "export_hub": "Ho Chi Minh",
+        "technical_specs": {
+            "purity_brix": "34%",
+            "ph_value": 4.78,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "86 Tons"
+        },
+        "estimated_capacity_yearly": "618420 Tons"
+    },
+    {
+        "id": "OB-POL-004",
+        "company_name": "Paraffin Global 4",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 4",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "density": "951 kg/m³",
+            "melt_flow_rate": "1.3 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "86 Tons"
+        },
+        "estimated_capacity_yearly": "959863 Tons"
+    },
+    {
+        "id": "OB-CHE-005",
+        "company_name": "Sulphur Global 5",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 5",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity": "99.33%",
+            "moisture": "0.42%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "60 Tons"
+        },
+        "estimated_capacity_yearly": "184695 Tons"
+    },
+    {
+        "id": "OB-CHE-006",
+        "company_name": "Urea Global 6",
+        "sector": "Chemicals",
+        "product": "Urea",
+        "location": {
+            "city": "Industrial City 6",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity": "99.82%",
+            "moisture": "0.47%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH",
+            "ISO 14001",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "62 Tons"
+        },
+        "estimated_capacity_yearly": "547821 Tons"
+    },
+    {
+        "id": "OB-POL-007",
+        "company_name": "Polyethylene Global 7",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 7",
+            "country": "UAE"
+        },
+        "export_hub": "Jebel Ali",
+        "technical_specs": {
+            "density": "932 kg/m³",
+            "melt_flow_rate": "1.1 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "56 Tons"
+        },
+        "estimated_capacity_yearly": "311034 Tons"
+    },
+    {
+        "id": "OB-CHE-008",
+        "company_name": "Ammonium Global 8",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 8",
+            "country": "China"
+        },
+        "export_hub": "Dalian",
+        "technical_specs": {
+            "purity": "99.59%",
+            "moisture": "0.33%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "BRC",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "98 Tons"
+        },
+        "estimated_capacity_yearly": "153135 Tons"
+    },
+    {
+        "id": "OB-AGR-009",
+        "company_name": "Pistachio Global 9",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 9",
+            "country": "Brazil"
+        },
+        "export_hub": "Paranagua",
+        "technical_specs": {
+            "purity_brix": "30%",
+            "ph_value": 4.1,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "42 Tons"
+        },
+        "estimated_capacity_yearly": "336248 Tons"
+    },
+    {
+        "id": "OB-AGR-010",
+        "company_name": "Pistachio Global 10",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 10",
+            "country": "UAE"
+        },
+        "export_hub": "Ruwais",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.33,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "REACH",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Bulk",
+            "min_order_quantity": "99 Tons"
+        },
+        "estimated_capacity_yearly": "832984 Tons"
+    },
+    {
+        "id": "OB-AGR-011",
+        "company_name": "Pistachio Global 11",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 11",
+            "country": "Egypt"
+        },
+        "export_hub": "Alexandria",
+        "technical_specs": {
+            "purity_brix": "33%",
+            "ph_value": 4.71,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 9001",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "77 Tons"
+        },
+        "estimated_capacity_yearly": "217153 Tons"
+    },
+    {
+        "id": "OB-CHE-012",
+        "company_name": "Ammonium Global 12",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 12",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "purity": "99.74%",
+            "moisture": "0.41%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "42 Tons"
+        },
+        "estimated_capacity_yearly": "670341 Tons"
+    },
+    {
+        "id": "OB-AGR-013",
+        "company_name": "Pistachio Global 13",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 13",
+            "country": "Brazil"
+        },
+        "export_hub": "Santos",
+        "technical_specs": {
+            "purity_brix": "32%",
+            "ph_value": 4.3,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "60 Tons"
+        },
+        "estimated_capacity_yearly": "210825 Tons"
+    },
+    {
+        "id": "OB-POL-014",
+        "company_name": "Paraffin Global 14",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 14",
+            "country": "China"
+        },
+        "export_hub": "Dalian",
+        "technical_specs": {
+            "density": "942 kg/m³",
+            "melt_flow_rate": "8.7 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 9001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "34 Tons"
+        },
+        "estimated_capacity_yearly": "821589 Tons"
+    },
+    {
+        "id": "OB-CHE-015",
+        "company_name": "Ammonium Global 15",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 15",
+            "country": "China"
+        },
+        "export_hub": "Dalian",
+        "technical_specs": {
+            "purity": "99.26%",
+            "moisture": "0.43%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH",
+            "GMP",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "70 Tons"
+        },
+        "estimated_capacity_yearly": "896962 Tons"
+    },
+    {
+        "id": "OB-AGR-016",
+        "company_name": "Apple Global 16",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 16",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "purity_brix": "37%",
+            "ph_value": 4.51,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Bulk",
+            "min_order_quantity": "79 Tons"
+        },
+        "estimated_capacity_yearly": "106806 Tons"
+    },
+    {
+        "id": "OB-CHE-017",
+        "company_name": "Ammonium Global 17",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 17",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "purity": "99.81%",
+            "moisture": "0.49%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "GMP",
+            "REACH",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "934520 Tons"
+    },
+    {
+        "id": "OB-AGR-018",
+        "company_name": "Apple Global 18",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 18",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.38,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Bulk",
+            "min_order_quantity": "68 Tons"
+        },
+        "estimated_capacity_yearly": "502230 Tons"
+    },
+    {
+        "id": "OB-CHE-019",
+        "company_name": "Urea Global 19",
+        "sector": "Chemicals",
+        "product": "Urea",
+        "location": {
+            "city": "Industrial City 19",
+            "country": "Vietnam"
+        },
+        "export_hub": "Ho Chi Minh",
+        "technical_specs": {
+            "purity": "99.48%",
+            "moisture": "0.26%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "71 Tons"
+        },
+        "estimated_capacity_yearly": "698776 Tons"
+    },
+    {
+        "id": "OB-CHE-020",
+        "company_name": "Sulphur Global 20",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 20",
+            "country": "UAE"
+        },
+        "export_hub": "Jebel Ali",
+        "technical_specs": {
+            "purity": "99.44%",
+            "moisture": "0.21%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "HACCP",
+            "BRC",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "62 Tons"
+        },
+        "estimated_capacity_yearly": "61589 Tons"
+    },
+    {
+        "id": "OB-AGR-021",
+        "company_name": "Tomato Global 21",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 21",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "purity_brix": "32%",
+            "ph_value": 4.39,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Bulk",
+            "min_order_quantity": "27 Tons"
+        },
+        "estimated_capacity_yearly": "216992 Tons"
+    },
+    {
+        "id": "OB-POL-022",
+        "company_name": "Paraffin Global 22",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 22",
+            "country": "China"
+        },
+        "export_hub": "Dalian",
+        "technical_specs": {
+            "density": "913 kg/m³",
+            "melt_flow_rate": "12.4 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 14001",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Bulk",
+            "min_order_quantity": "28 Tons"
+        },
+        "estimated_capacity_yearly": "487404 Tons"
+    },
+    {
+        "id": "OB-AGR-023",
+        "company_name": "Apple Global 23",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 23",
+            "country": "Brazil"
+        },
+        "export_hub": "Paranagua",
+        "technical_specs": {
+            "purity_brix": "32%",
+            "ph_value": 4.61,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "74 Tons"
+        },
+        "estimated_capacity_yearly": "650162 Tons"
+    },
+    {
+        "id": "OB-CHE-024",
+        "company_name": "Sulphur Global 24",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 24",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity": "99.34%",
+            "moisture": "0.22%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "44 Tons"
+        },
+        "estimated_capacity_yearly": "997160 Tons"
+    },
+    {
+        "id": "OB-POL-025",
+        "company_name": "Polyethylene Global 25",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 25",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "density": "928 kg/m³",
+            "melt_flow_rate": "3.7 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "REACH",
+            "HACCP",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "59 Tons"
+        },
+        "estimated_capacity_yearly": "529719 Tons"
+    },
+    {
+        "id": "OB-AGR-026",
+        "company_name": "Tomato Global 26",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 26",
+            "country": "Brazil"
+        },
+        "export_hub": "Santos",
+        "technical_specs": {
+            "purity_brix": "30%",
+            "ph_value": 4.23,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 9001",
+            "REACH",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "61 Tons"
+        },
+        "estimated_capacity_yearly": "208892 Tons"
+    },
+    {
+        "id": "OB-AGR-027",
+        "company_name": "Apple Global 27",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 27",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity_brix": "36%",
+            "ph_value": 4.6,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 9001",
+            "BRC",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "82 Tons"
+        },
+        "estimated_capacity_yearly": "300866 Tons"
+    },
+    {
+        "id": "OB-POL-028",
+        "company_name": "Pet Global 28",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 28",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "density": "916 kg/m³",
+            "melt_flow_rate": "6.9 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "96 Tons"
+        },
+        "estimated_capacity_yearly": "860967 Tons"
+    },
+    {
+        "id": "OB-AGR-029",
+        "company_name": "Tomato Global 29",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 29",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity_brix": "29%",
+            "ph_value": 4.39,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Bulk",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "482667 Tons"
+    },
+    {
+        "id": "OB-AGR-030",
+        "company_name": "Tomato Global 30",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 30",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "purity_brix": "28%",
+            "ph_value": 4.15,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Bulk",
+            "min_order_quantity": "88 Tons"
+        },
+        "estimated_capacity_yearly": "977867 Tons"
+    },
+    {
+        "id": "OB-AGR-031",
+        "company_name": "Pistachio Global 31",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 31",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity_brix": "35%",
+            "ph_value": 4.34,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "ISO 9001",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "224941 Tons"
+    },
+    {
+        "id": "OB-AGR-032",
+        "company_name": "Pistachio Global 32",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 32",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity_brix": "36%",
+            "ph_value": 4.58,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "70 Tons"
+        },
+        "estimated_capacity_yearly": "238748 Tons"
+    },
+    {
+        "id": "OB-POL-033",
+        "company_name": "Paraffin Global 33",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 33",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "density": "913 kg/m³",
+            "melt_flow_rate": "5.8 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "BRC",
+            "ISO 14001",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "60 Tons"
+        },
+        "estimated_capacity_yearly": "931878 Tons"
+    },
+    {
+        "id": "OB-CHE-034",
+        "company_name": "Ammonium Global 34",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 34",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "purity": "99.82%",
+            "moisture": "0.34%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "GMP",
+            "HACCP",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Bulk",
+            "min_order_quantity": "75 Tons"
+        },
+        "estimated_capacity_yearly": "784864 Tons"
+    },
+    {
+        "id": "OB-AGR-035",
+        "company_name": "Pistachio Global 35",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 35",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity_brix": "32%",
+            "ph_value": 4.15,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "23 Tons"
+        },
+        "estimated_capacity_yearly": "306405 Tons"
+    },
+    {
+        "id": "OB-AGR-036",
+        "company_name": "Pistachio Global 36",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 36",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "purity_brix": "33%",
+            "ph_value": 4.35,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "42 Tons"
+        },
+        "estimated_capacity_yearly": "723710 Tons"
+    },
+    {
+        "id": "OB-CHE-037",
+        "company_name": "Urea Global 37",
+        "sector": "Chemicals",
+        "product": "Urea",
+        "location": {
+            "city": "Industrial City 37",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity": "99.64%",
+            "moisture": "0.41%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "GMP",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "64 Tons"
+        },
+        "estimated_capacity_yearly": "348124 Tons"
+    },
+    {
+        "id": "OB-POL-038",
+        "company_name": "Pet Global 38",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 38",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "density": "935 kg/m³",
+            "melt_flow_rate": "18.6 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "25 Tons"
+        },
+        "estimated_capacity_yearly": "474591 Tons"
+    },
+    {
+        "id": "OB-CHE-039",
+        "company_name": "Urea Global 39",
+        "sector": "Chemicals",
+        "product": "Urea",
+        "location": {
+            "city": "Industrial City 39",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity": "99.83%",
+            "moisture": "0.18%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "BRC",
+            "ISO 14001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "34 Tons"
+        },
+        "estimated_capacity_yearly": "741067 Tons"
+    },
+    {
+        "id": "OB-POL-040",
+        "company_name": "Polyethylene Global 40",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 40",
+            "country": "Egypt"
+        },
+        "export_hub": "Alexandria",
+        "technical_specs": {
+            "density": "932 kg/m³",
+            "melt_flow_rate": "2.3 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 14001",
+            "HACCP",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "65 Tons"
+        },
+        "estimated_capacity_yearly": "372821 Tons"
+    },
+    {
+        "id": "OB-AGR-041",
+        "company_name": "Pistachio Global 41",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 41",
+            "country": "Brazil"
+        },
+        "export_hub": "Santos",
+        "technical_specs": {
+            "purity_brix": "33%",
+            "ph_value": 4.73,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Bulk",
+            "min_order_quantity": "42 Tons"
+        },
+        "estimated_capacity_yearly": "983824 Tons"
+    },
+    {
+        "id": "OB-AGR-042",
+        "company_name": "Tomato Global 42",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 42",
+            "country": "UAE"
+        },
+        "export_hub": "Ruwais",
+        "technical_specs": {
+            "purity_brix": "37%",
+            "ph_value": 4.72,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 9001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "79 Tons"
+        },
+        "estimated_capacity_yearly": "244646 Tons"
+    },
+    {
+        "id": "OB-CHE-043",
+        "company_name": "Ammonium Global 43",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 43",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "purity": "99.57%",
+            "moisture": "0.11%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "69 Tons"
+        },
+        "estimated_capacity_yearly": "62498 Tons"
+    },
+    {
+        "id": "OB-AGR-044",
+        "company_name": "Tomato Global 44",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 44",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity_brix": "37%",
+            "ph_value": 4.02,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "21 Tons"
+        },
+        "estimated_capacity_yearly": "811731 Tons"
+    },
+    {
+        "id": "OB-CHE-045",
+        "company_name": "Ammonium Global 45",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 45",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity": "99.29%",
+            "moisture": "0.41%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH",
+            "HACCP",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "67 Tons"
+        },
+        "estimated_capacity_yearly": "298136 Tons"
+    },
+    {
+        "id": "OB-AGR-046",
+        "company_name": "Pistachio Global 46",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 46",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity_brix": "29%",
+            "ph_value": 4.15,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "REACH",
+            "ISO 9001",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Bulk",
+            "min_order_quantity": "74 Tons"
+        },
+        "estimated_capacity_yearly": "654653 Tons"
+    },
+    {
+        "id": "OB-AGR-047",
+        "company_name": "Tomato Global 47",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 47",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.79,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "68 Tons"
+        },
+        "estimated_capacity_yearly": "774391 Tons"
+    },
+    {
+        "id": "OB-POL-048",
+        "company_name": "Pet Global 48",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 48",
+            "country": "Brazil"
+        },
+        "export_hub": "Paranagua",
+        "technical_specs": {
+            "density": "923 kg/m³",
+            "melt_flow_rate": "11.0 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "REACH",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "61 Tons"
+        },
+        "estimated_capacity_yearly": "422995 Tons"
+    },
+    {
+        "id": "OB-AGR-049",
+        "company_name": "Tomato Global 49",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 49",
+            "country": "USA"
+        },
+        "export_hub": "Oakland",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.42,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "91 Tons"
+        },
+        "estimated_capacity_yearly": "855770 Tons"
+    },
+    {
+        "id": "OB-CHE-050",
+        "company_name": "Ammonium Global 50",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 50",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity": "99.89%",
+            "moisture": "0.42%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "HACCP",
+            "GMP",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "311479 Tons"
+    },
+    {
+        "id": "OB-POL-051",
+        "company_name": "Paraffin Global 51",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 51",
+            "country": "Egypt"
+        },
+        "export_hub": "Alexandria",
+        "technical_specs": {
+            "density": "939 kg/m³",
+            "melt_flow_rate": "19.3 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 14001",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "42 Tons"
+        },
+        "estimated_capacity_yearly": "909122 Tons"
+    },
+    {
+        "id": "OB-POL-052",
+        "company_name": "Paraffin Global 52",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 52",
+            "country": "UAE"
+        },
+        "export_hub": "Jebel Ali",
+        "technical_specs": {
+            "density": "925 kg/m³",
+            "melt_flow_rate": "4.5 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "71 Tons"
+        },
+        "estimated_capacity_yearly": "339071 Tons"
+    },
+    {
+        "id": "OB-CHE-053",
+        "company_name": "Sulphur Global 53",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 53",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Yanbu",
+        "technical_specs": {
+            "purity": "99.81%",
+            "moisture": "0.49%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "23 Tons"
+        },
+        "estimated_capacity_yearly": "667830 Tons"
+    },
+    {
+        "id": "OB-CHE-054",
+        "company_name": "Sulphur Global 54",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 54",
+            "country": "USA"
+        },
+        "export_hub": "Oakland",
+        "technical_specs": {
+            "purity": "99.30%",
+            "moisture": "0.45%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001",
+            "GMP",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "39 Tons"
+        },
+        "estimated_capacity_yearly": "54467 Tons"
+    },
+    {
+        "id": "OB-AGR-055",
+        "company_name": "Tomato Global 55",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 55",
+            "country": "USA"
+        },
+        "export_hub": "Oakland",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.14,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Bulk",
+            "min_order_quantity": "71 Tons"
+        },
+        "estimated_capacity_yearly": "520913 Tons"
+    },
+    {
+        "id": "OB-AGR-056",
+        "company_name": "Tomato Global 56",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 56",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity_brix": "37%",
+            "ph_value": 4.41,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "323320 Tons"
+    },
+    {
+        "id": "OB-CHE-057",
+        "company_name": "Urea Global 57",
+        "sector": "Chemicals",
+        "product": "Urea",
+        "location": {
+            "city": "Industrial City 57",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity": "99.53%",
+            "moisture": "0.19%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "68 Tons"
+        },
+        "estimated_capacity_yearly": "769145 Tons"
+    },
+    {
+        "id": "OB-AGR-058",
+        "company_name": "Pistachio Global 58",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 58",
+            "country": "USA"
+        },
+        "export_hub": "Oakland",
+        "technical_specs": {
+            "purity_brix": "34%",
+            "ph_value": 4.46,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Bulk",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "630517 Tons"
+    },
+    {
+        "id": "OB-CHE-059",
+        "company_name": "Sulphur Global 59",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 59",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "purity": "99.51%",
+            "moisture": "0.39%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "97 Tons"
+        },
+        "estimated_capacity_yearly": "345224 Tons"
+    },
+    {
+        "id": "OB-AGR-060",
+        "company_name": "Pistachio Global 60",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 60",
+            "country": "Egypt"
+        },
+        "export_hub": "Alexandria",
+        "technical_specs": {
+            "purity_brix": "34%",
+            "ph_value": 4.53,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "HACCP",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "86 Tons"
+        },
+        "estimated_capacity_yearly": "71578 Tons"
+    },
+    {
+        "id": "OB-POL-061",
+        "company_name": "Polyethylene Global 61",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 61",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Yanbu",
+        "technical_specs": {
+            "density": "956 kg/m³",
+            "melt_flow_rate": "4.9 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "GMP",
+            "ISO 14001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Bulk",
+            "min_order_quantity": "57 Tons"
+        },
+        "estimated_capacity_yearly": "454525 Tons"
+    },
+    {
+        "id": "OB-CHE-062",
+        "company_name": "Sulphur Global 62",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 62",
+            "country": "Brazil"
+        },
+        "export_hub": "Santos",
+        "technical_specs": {
+            "purity": "99.22%",
+            "moisture": "0.23%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "HACCP",
+            "BRC",
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Bulk",
+            "min_order_quantity": "69 Tons"
+        },
+        "estimated_capacity_yearly": "755856 Tons"
+    },
+    {
+        "id": "OB-CHE-063",
+        "company_name": "Sulphur Global 63",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 63",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity": "99.78%",
+            "moisture": "0.11%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "25 Tons"
+        },
+        "estimated_capacity_yearly": "486954 Tons"
+    },
+    {
+        "id": "OB-CHE-064",
+        "company_name": "Ammonium Global 64",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 64",
+            "country": "Egypt"
+        },
+        "export_hub": "Alexandria",
+        "technical_specs": {
+            "purity": "99.74%",
+            "moisture": "0.35%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 9001",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Bulk",
+            "min_order_quantity": "91 Tons"
+        },
+        "estimated_capacity_yearly": "190830 Tons"
+    },
+    {
+        "id": "OB-CHE-065",
+        "company_name": "Ammonium Global 65",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 65",
+            "country": "China"
+        },
+        "export_hub": "Dalian",
+        "technical_specs": {
+            "purity": "99.18%",
+            "moisture": "0.17%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001",
+            "GMP",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "48 Tons"
+        },
+        "estimated_capacity_yearly": "419638 Tons"
+    },
+    {
+        "id": "OB-POL-066",
+        "company_name": "Pet Global 66",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 66",
+            "country": "China"
+        },
+        "export_hub": "Dalian",
+        "technical_specs": {
+            "density": "937 kg/m³",
+            "melt_flow_rate": "0.5 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "HACCP",
+            "REACH",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "94 Tons"
+        },
+        "estimated_capacity_yearly": "344639 Tons"
+    },
+    {
+        "id": "OB-CHE-067",
+        "company_name": "Ammonium Global 67",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 67",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity": "99.41%",
+            "moisture": "0.29%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "GMP",
+            "ISO 9001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "90 Tons"
+        },
+        "estimated_capacity_yearly": "339614 Tons"
+    },
+    {
+        "id": "OB-AGR-068",
+        "company_name": "Tomato Global 68",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 68",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity_brix": "30%",
+            "ph_value": 4.02,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Bulk",
+            "min_order_quantity": "99 Tons"
+        },
+        "estimated_capacity_yearly": "510119 Tons"
+    },
+    {
+        "id": "OB-POL-069",
+        "company_name": "Polyethylene Global 69",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 69",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "density": "955 kg/m³",
+            "melt_flow_rate": "15.2 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 14001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "28 Tons"
+        },
+        "estimated_capacity_yearly": "404247 Tons"
+    },
+    {
+        "id": "OB-AGR-070",
+        "company_name": "Pistachio Global 70",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 70",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity_brix": "34%",
+            "ph_value": 4.21,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 9001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "83 Tons"
+        },
+        "estimated_capacity_yearly": "963335 Tons"
+    },
+    {
+        "id": "OB-POL-071",
+        "company_name": "Pet Global 71",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 71",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "density": "955 kg/m³",
+            "melt_flow_rate": "0.4 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Bulk",
+            "min_order_quantity": "64 Tons"
+        },
+        "estimated_capacity_yearly": "443427 Tons"
+    },
+    {
+        "id": "OB-CHE-072",
+        "company_name": "Ammonium Global 72",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 72",
+            "country": "UAE"
+        },
+        "export_hub": "Jebel Ali",
+        "technical_specs": {
+            "purity": "99.29%",
+            "moisture": "0.34%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "BRC",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "56 Tons"
+        },
+        "estimated_capacity_yearly": "554551 Tons"
+    },
+    {
+        "id": "OB-POL-073",
+        "company_name": "Paraffin Global 73",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 73",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "density": "911 kg/m³",
+            "melt_flow_rate": "4.5 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Bulk",
+            "min_order_quantity": "76 Tons"
+        },
+        "estimated_capacity_yearly": "566663 Tons"
+    },
+    {
+        "id": "OB-POL-074",
+        "company_name": "Polyethylene Global 74",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 74",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "density": "930 kg/m³",
+            "melt_flow_rate": "8.1 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "38 Tons"
+        },
+        "estimated_capacity_yearly": "411917 Tons"
+    },
+    {
+        "id": "OB-POL-075",
+        "company_name": "Pet Global 75",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 75",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "density": "927 kg/m³",
+            "melt_flow_rate": "8.8 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "BRC",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "85 Tons"
+        },
+        "estimated_capacity_yearly": "250699 Tons"
+    },
+    {
+        "id": "OB-POL-076",
+        "company_name": "Polyethylene Global 76",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 76",
+            "country": "Vietnam"
+        },
+        "export_hub": "Ho Chi Minh",
+        "technical_specs": {
+            "density": "952 kg/m³",
+            "melt_flow_rate": "14.9 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 14001",
+            "BRC",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "80 Tons"
+        },
+        "estimated_capacity_yearly": "741551 Tons"
+    },
+    {
+        "id": "OB-AGR-077",
+        "company_name": "Pistachio Global 77",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 77",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity_brix": "30%",
+            "ph_value": 4.38,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Bulk",
+            "min_order_quantity": "36 Tons"
+        },
+        "estimated_capacity_yearly": "574317 Tons"
+    },
+    {
+        "id": "OB-AGR-078",
+        "company_name": "Pistachio Global 78",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 78",
+            "country": "Vietnam"
+        },
+        "export_hub": "Ho Chi Minh",
+        "technical_specs": {
+            "purity_brix": "38%",
+            "ph_value": 4.61,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "REACH",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "39 Tons"
+        },
+        "estimated_capacity_yearly": "440990 Tons"
+    },
+    {
+        "id": "OB-AGR-079",
+        "company_name": "Pistachio Global 79",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 79",
+            "country": "Germany"
+        },
+        "export_hub": "Bremerhaven",
+        "technical_specs": {
+            "purity_brix": "35%",
+            "ph_value": 4.1,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "REACH",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "97 Tons"
+        },
+        "estimated_capacity_yearly": "66171 Tons"
+    },
+    {
+        "id": "OB-POL-080",
+        "company_name": "Polyethylene Global 80",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 80",
+            "country": "Egypt"
+        },
+        "export_hub": "Damietta",
+        "technical_specs": {
+            "density": "952 kg/m³",
+            "melt_flow_rate": "7.4 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "ISO 9001",
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Bulk",
+            "min_order_quantity": "20 Tons"
+        },
+        "estimated_capacity_yearly": "926421 Tons"
+    },
+    {
+        "id": "OB-AGR-081",
+        "company_name": "Pistachio Global 81",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 81",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity_brix": "30%",
+            "ph_value": 4.47,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 9001",
+            "BRC",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "85 Tons"
+        },
+        "estimated_capacity_yearly": "922372 Tons"
+    },
+    {
+        "id": "OB-POL-082",
+        "company_name": "Polyethylene Global 82",
+        "sector": "Polymers",
+        "product": "Polyethylene PE",
+        "location": {
+            "city": "Industrial City 82",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "density": "922 kg/m³",
+            "melt_flow_rate": "17.4 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "23 Tons"
+        },
+        "estimated_capacity_yearly": "801579 Tons"
+    },
+    {
+        "id": "OB-CHE-083",
+        "company_name": "Sulphur Global 83",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 83",
+            "country": "USA"
+        },
+        "export_hub": "Oakland",
+        "technical_specs": {
+            "purity": "99.48%",
+            "moisture": "0.27%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Bulk",
+            "min_order_quantity": "67 Tons"
+        },
+        "estimated_capacity_yearly": "729097 Tons"
+    },
+    {
+        "id": "OB-CHE-084",
+        "company_name": "Ammonium Global 84",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 84",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "purity": "99.87%",
+            "moisture": "0.47%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "65 Tons"
+        },
+        "estimated_capacity_yearly": "880238 Tons"
+    },
+    {
+        "id": "OB-AGR-085",
+        "company_name": "Tomato Global 85",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 85",
+            "country": "Brazil"
+        },
+        "export_hub": "Santos",
+        "technical_specs": {
+            "purity_brix": "31%",
+            "ph_value": 4.65,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "HACCP",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "91 Tons"
+        },
+        "estimated_capacity_yearly": "167934 Tons"
+    },
+    {
+        "id": "OB-AGR-086",
+        "company_name": "Pistachio Global 86",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 86",
+            "country": "Vietnam"
+        },
+        "export_hub": "Ho Chi Minh",
+        "technical_specs": {
+            "purity_brix": "37%",
+            "ph_value": 4.03,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Bulk",
+            "min_order_quantity": "89 Tons"
+        },
+        "estimated_capacity_yearly": "862508 Tons"
+    },
+    {
+        "id": "OB-AGR-087",
+        "company_name": "Apple Global 87",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 87",
+            "country": "UAE"
+        },
+        "export_hub": "Ruwais",
+        "technical_specs": {
+            "purity_brix": "34%",
+            "ph_value": 4.7,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "REACH",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Bulk",
+            "min_order_quantity": "69 Tons"
+        },
+        "estimated_capacity_yearly": "357286 Tons"
+    },
+    {
+        "id": "OB-CHE-088",
+        "company_name": "Ammonium Global 88",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 88",
+            "country": "UAE"
+        },
+        "export_hub": "Jebel Ali",
+        "technical_specs": {
+            "purity": "99.78%",
+            "moisture": "0.18%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Bulk",
+            "min_order_quantity": "74 Tons"
+        },
+        "estimated_capacity_yearly": "514647 Tons"
+    },
+    {
+        "id": "OB-POL-089",
+        "company_name": "Paraffin Global 89",
+        "sector": "Polymers",
+        "product": "Paraffin Wax",
+        "location": {
+            "city": "Industrial City 89",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "density": "945 kg/m³",
+            "melt_flow_rate": "2.2 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "BRC",
+            "REACH",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "88 Tons"
+        },
+        "estimated_capacity_yearly": "459679 Tons"
+    },
+    {
+        "id": "OB-AGR-090",
+        "company_name": "Tomato Global 90",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 90",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity_brix": "38%",
+            "ph_value": 4.46,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "91 Tons"
+        },
+        "estimated_capacity_yearly": "202328 Tons"
+    },
+    {
+        "id": "OB-CHE-091",
+        "company_name": "Sulphur Global 91",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 91",
+            "country": "UAE"
+        },
+        "export_hub": "Ruwais",
+        "technical_specs": {
+            "purity": "99.54%",
+            "moisture": "0.37%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "ISO 14001",
+            "HACCP",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "49 Tons"
+        },
+        "estimated_capacity_yearly": "623626 Tons"
+    },
+    {
+        "id": "OB-AGR-092",
+        "company_name": "Pistachio Global 92",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 92",
+            "country": "Vietnam"
+        },
+        "export_hub": "Haiphong",
+        "technical_specs": {
+            "purity_brix": "38%",
+            "ph_value": 4.38,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "62 Tons"
+        },
+        "estimated_capacity_yearly": "88317 Tons"
+    },
+    {
+        "id": "OB-CHE-093",
+        "company_name": "Ammonium Global 93",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 93",
+            "country": "Germany"
+        },
+        "export_hub": "Hamburg",
+        "technical_specs": {
+            "purity": "99.64%",
+            "moisture": "0.44%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH",
+            "HACCP"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "56 Tons"
+        },
+        "estimated_capacity_yearly": "654347 Tons"
+    },
+    {
+        "id": "OB-AGR-094",
+        "company_name": "Apple Global 94",
+        "sector": "Agro",
+        "product": "Apple Puree Concentrate",
+        "location": {
+            "city": "Industrial City 94",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Yanbu",
+        "technical_specs": {
+            "purity_brix": "35%",
+            "ph_value": 4.04,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "ISO 14001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "74 Tons"
+        },
+        "estimated_capacity_yearly": "794882 Tons"
+    },
+    {
+        "id": "OB-AGR-095",
+        "company_name": "Pistachio Global 95",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 95",
+            "country": "UAE"
+        },
+        "export_hub": "Jebel Ali",
+        "technical_specs": {
+            "purity_brix": "30%",
+            "ph_value": 4.58,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "GMP",
+            "ISO 14001",
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "31 Tons"
+        },
+        "estimated_capacity_yearly": "965440 Tons"
+    },
+    {
+        "id": "OB-CHE-096",
+        "company_name": "Sulphur Global 96",
+        "sector": "Chemicals",
+        "product": "Sulphur",
+        "location": {
+            "city": "Industrial City 96",
+            "country": "USA"
+        },
+        "export_hub": "Houston",
+        "technical_specs": {
+            "purity": "99.80%",
+            "moisture": "0.30%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "CIF",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "71 Tons"
+        },
+        "estimated_capacity_yearly": "482805 Tons"
+    },
+    {
+        "id": "OB-POL-097",
+        "company_name": "Pet Global 97",
+        "sector": "Polymers",
+        "product": "Pet Coke Calcined",
+        "location": {
+            "city": "Industrial City 97",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Jubail",
+        "technical_specs": {
+            "density": "939 kg/m³",
+            "melt_flow_rate": "6.2 g/10min",
+            "viscosity": "High/Medium"
+        },
+        "certifications": [
+            "BRC"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "47 Tons"
+        },
+        "estimated_capacity_yearly": "990083 Tons"
+    },
+    {
+        "id": "OB-AGR-098",
+        "company_name": "Tomato Global 98",
+        "sector": "Agro",
+        "product": "Tomato Paste",
+        "location": {
+            "city": "Industrial City 98",
+            "country": "China"
+        },
+        "export_hub": "Shanghai",
+        "technical_specs": {
+            "purity_brix": "28%",
+            "ph_value": 4.63,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "BRC",
+            "HACCP",
+            "GMP"
+        ],
+        "logistics": {
+            "incoterms": "FOB",
+            "packaging": "Aseptic Drums",
+            "min_order_quantity": "61 Tons"
+        },
+        "estimated_capacity_yearly": "622173 Tons"
+    },
+    {
+        "id": "OB-CHE-099",
+        "company_name": "Ammonium Global 99",
+        "sector": "Chemicals",
+        "product": "Ammonium Phosphate",
+        "location": {
+            "city": "Industrial City 99",
+            "country": "Saudi Arabia"
+        },
+        "export_hub": "Yanbu",
+        "technical_specs": {
+            "purity": "99.10%",
+            "moisture": "0.12%",
+            "grade": "Technical/Food Grade"
+        },
+        "certifications": [
+            "REACH"
+        ],
+        "logistics": {
+            "incoterms": "EXW",
+            "packaging": "Big Bags 1000kg",
+            "min_order_quantity": "25 Tons"
+        },
+        "estimated_capacity_yearly": "691804 Tons"
+    },
+    {
+        "id": "OB-AGR-100",
+        "company_name": "Pistachio Global 100",
+        "sector": "Agro",
+        "product": "Pistachio",
+        "location": {
+            "city": "Industrial City 100",
+            "country": "Vietnam"
+        },
+        "export_hub": "Ho Chi Minh",
+        "technical_specs": {
+            "purity_brix": "35%",
+            "ph_value": 4.0,
+            "shelf_life": "24 Months"
+        },
+        "certifications": [
+            "REACH",
+            "ISO 9001"
+        ],
+        "logistics": {
+            "incoterms": "DDP",
+            "packaging": "25kg Bags",
+            "min_order_quantity": "90 Tons"
+        },
+        "estimated_capacity_yearly": "137369 Tons"
+    }
+]
